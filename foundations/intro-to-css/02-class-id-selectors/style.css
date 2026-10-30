@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+.first {
+    background-color: rgb(255,167,167);
+}
+
+#second {
+    font-size: 24px;
+    color: blue;
+}
+
+.third {
+    background-color: rgb(255,167,167);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.forth2 {
+    font-size: 24px;
+}
+
+#forth {
+    background-color: green;
+    font-weight: bold;
+}
